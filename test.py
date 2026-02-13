@@ -14,3 +14,5 @@ if tall > 10:
 else:
     print("Tall er mindre enn 10")
 
+print("En liten test til github")
+
