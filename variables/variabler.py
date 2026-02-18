@@ -44,7 +44,3 @@ def funksjon3():
 funksjon3()
 #påkaller variabel utenfor funksjon, men tar den globale verdien
 print(testfunc)
-
-#Man kan også printe datatypen på en variabel med 'type()' funksjonen
-dataVar = "9"
-print(type(dataVar))
