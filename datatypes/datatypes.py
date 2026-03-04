@@ -30,3 +30,13 @@ z = 1j
 
 print(x, y, z)
 
+#man kan caste datatypes i python. Det vil si å spesifisere hvilken datatype en variabel er
+xx = int(2.4)
+yy = str(45)
+zz = float(3)
+print (xx)
+print (yy)
+print (zz)
+
+#i python så er "" og '' det samme.
+print ("Hello, world!", 'Hello, World!')
