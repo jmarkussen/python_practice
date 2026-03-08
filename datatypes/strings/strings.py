@@ -38,4 +38,17 @@ print(len(my_var))
 my_var2 = "Norge vinner melodi grand prix i år!"
 print ("melodi" in my_var2) #returnerer svaret som true/false
 
-#
+#dette er også mulig å gjøre i en "if statement"
+
+my_var3 = "Norge vinner melodi grand prix i år!"
+if "Norge" in my_var3:
+    print ("Ja, Norge er i setningen")
+else:
+    print ("Nei Norge er ikke i setningen")
+
+#du kan også gjøre det motsatt, med not in. 
+my_var3 = "Norge vinner melodi grand prix i år!"
+if "Norge" not in my_var3:
+    print ("Nei, Norge er i setningen")
+else:
+    print ("Ja Norge er ikke i setningen")
