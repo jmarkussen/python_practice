@@ -37,6 +37,3 @@ zz = float(3)
 print (xx)
 print (yy)
 print (zz)
-
-#i python så er "" og '' det samme.
-print ("Hello, world!", 'Hello, World!')
