@@ -52,3 +52,4 @@ if "Norge" not in my_var3:
     print ("Nei, Norge er i setningen")
 else:
     print ("Ja Norge er ikke i setningen")
+
